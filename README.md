@@ -8,4 +8,4 @@ one to play against computer one to play with another player
 
 
 # Compilation
-$g++ tictactoe.cpp
+`$g++ tictactoe.cpp`
